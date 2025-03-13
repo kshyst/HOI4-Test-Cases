@@ -1,0 +1,37 @@
+invalid command
+invalid command
+signup menu
+invalid command
+invalid command
+invalid username
+invalid length
+don't use whitespace in password
+invalid command
+password must start with English letters
+password doesn't have special characters
+invalid email format
+invalid email format
+user registered successfully
+login menu
+signup menu
+invalid command
+username is already taken
+signup menu
+login menu
+invalid command
+username doesn't exist
+password is incorrect!
+user logged in successfully
+invalid command
+main menu
+invalid command
+login menu
+invalid command
+user logged in successfully
+invalid command
+invalid command
+main menu
+invalid command
+leaderboard menu
+main menu
+invalid command
