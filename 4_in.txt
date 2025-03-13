@@ -3,7 +3,6 @@ back
 register -username Amirhossein -password veryGoodPass99# -email moz@meow.com
 back
 register -username Sana -password veryGoodPass99# -email moz@meow.com
-back
 login -username Kiarash -password veryGoodPass99#
 show current menu
 play AmirhosseinSana
