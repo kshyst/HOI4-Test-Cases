@@ -129,10 +129,10 @@ terrain set successfully
 invalid tile
 this tile doesn't contain this factory
 you are poor!
-factory extracted 50000 of fuel
+factory extracted 10000 of fuel
 fuel refinery:
 fazliRefinery 100000
-masjedSoleymaan 50000
+masjedSoleymaan 90000
 meow 100000
 
 steel factory:
@@ -152,8 +152,8 @@ loser : German Reich
 Soviet Union
 leader : stalin
 stability : 100
-man power : 159877500
-fuel : 62000
+man power : 159876500
+fuel : 265000
 sulfur : 5000
 steel : 0
 faction :
