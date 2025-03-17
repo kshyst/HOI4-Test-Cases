@@ -161,8 +161,8 @@ puppet :
 infantry:
 
 panzer:
-girlsUndPanzers 0 23 60
-T34 0 23 60
+girlsUndPanzers 0 31 60
+T34 0 31 60
 
 airforce:
 
