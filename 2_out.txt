@@ -19,17 +19,16 @@ username is already taken
 signup menu
 login menu
 invalid command
-username doesn't exist
+username doesn't exist!
 password is incorrect!
 user logged in successfully
 invalid command
 main menu
 invalid command
-login menu
+signup menu
+invalid command
 invalid command
 user logged in successfully
-invalid command
-invalid command
 main menu
 invalid command
 leaderboard menu
