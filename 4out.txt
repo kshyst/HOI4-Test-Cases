@@ -4,7 +4,6 @@ user registered successfully
 user logged in successfully
 main menu
 select between available users
-select between available users
 users must be distinct
 users must be distinct
 you can't choose urself
@@ -59,10 +58,10 @@ player doesn't exist
 you can't switch to yourself
 switched to Sana
 faction doesn't exist
-Sana joined axis
-your country isn't in this faction
-Sana left axis
-Sana joined axis
+Soviet Union joined axis
+faction doesn't exist
+Soviet Union left axis
+Soviet Union joined axis
 terrain set successfully
 weather set successfully
 tile is unavailable
@@ -189,7 +188,7 @@ adenauer
 pieck
 hitler
 leader doesn't exist
-leader doesn't exist
+game menu
 Soviet Union
 main menu
 leaderboard menu
