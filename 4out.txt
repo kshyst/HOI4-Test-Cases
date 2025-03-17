@@ -139,7 +139,7 @@ steel factory:
 
 sulfur factory:
 can't show factories
-your country isn't in this faction
+faction doesn't exist
 Soviet Union left axis
 attacker tile unavailable
 switched to Kiarash
