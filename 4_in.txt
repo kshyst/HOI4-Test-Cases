@@ -88,7 +88,7 @@ run factory 15 randomName 10000
 run factory 15 masjedSoleymaan 999999999
 run factory 15 masjedSoleymaan 1000
 show factories 15
-show factories 50
+show factories 51
 leave faction NotInThisFaction
 leave faction axis
 attack 50 39 panzer
