@@ -120,7 +120,7 @@ Soviet Union
 leader : stalin
 stability : 100
 man power : 159877500
-fuel : 12000
+fuel : 255000
 sulfur : 5000
 steel : 0
 faction : axis
@@ -156,7 +156,7 @@ man power : 159877500
 fuel : 62000
 sulfur : 5000
 steel : 0
-faction : axis
+faction :
 puppet :
 infantry:
 
