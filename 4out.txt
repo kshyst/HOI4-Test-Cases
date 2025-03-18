@@ -193,7 +193,7 @@ Soviet Union
 main menu
 leaderboard menu
 History:
-Kiarash German Reich -490
+Kiarash German Reich -245
 Amirhossein United States 0
 Sana Soviet Union 490
 guest1 United Kingdom 0
@@ -201,6 +201,6 @@ guest2 Japan 0
 Leaderboard:
 Sana 490
 Amirhossein 0
-Kiarash -490
+Kiarash -245
 
 
