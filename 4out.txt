@@ -177,8 +177,6 @@ navy:
 switched to Amirhossein
 no civil war for you
 switched to Kiarash
-invalid tiles for civil war
-can't start civil war between these tiles
 invalid battalion type
 battalion set successfully
 civil war ended. 41 won.
@@ -188,7 +186,7 @@ adenauer
 pieck
 hitler
 leader doesn't exist
-game menu
+leader doesn't exist
 Soviet Union
 main menu
 leaderboard menu
