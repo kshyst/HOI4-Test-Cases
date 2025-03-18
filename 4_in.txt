@@ -105,7 +105,7 @@ start civil war 100 200 meow
 switch player Kiarash
 start civil war 41 40 meow
 add battalion 41 airforce nirooHavaaei
-start civil war 40 41 airforce
+start civil war 41 40 airforce
 show battalions 41
 start election
 moz
@@ -119,19 +119,3 @@ show current menu
 show history
 show ranking
 exit
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
