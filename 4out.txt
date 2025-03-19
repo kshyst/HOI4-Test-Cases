@@ -10,7 +10,7 @@ you can't choose urself
 select between available users
 aghaaz faAliat
 choosing country for Kiarash:
-game menu
+wrong country name
 wrong country name
 choosing country for Amirhossein:
 country already taken
